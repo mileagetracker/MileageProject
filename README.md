@@ -1,2 +1,2 @@
-# MileageProject
-Milage tracker using GPS
+# Mileage Tracker Application
+Milage tracker using GPS.
